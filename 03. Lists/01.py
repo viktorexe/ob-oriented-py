@@ -3,4 +3,3 @@
 my_list = [1, 2, 'Vansh', 'age', 20, True]
 empty_list = [] # An empty list
 
-# Accessing list elements 
