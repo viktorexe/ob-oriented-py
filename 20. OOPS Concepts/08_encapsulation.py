@@ -1,4 +1,4 @@
-# Abstraction means to show the user only the necessary details and hode compledx details 
+# Encapsulation means to show the user only the necessary details and hode compledx details 
 # A private attrobute is made using __ 2 underscores
 # self.__bankbalance 
 
