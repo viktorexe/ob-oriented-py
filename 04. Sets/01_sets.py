@@ -1,6 +1,5 @@
 # Set are unordered no indexing, duplicates removed automatically
 
-
 my_set = {1, 2, 4, 0, 11, 4}
 print(my_set) # Always prints sorted 
 
