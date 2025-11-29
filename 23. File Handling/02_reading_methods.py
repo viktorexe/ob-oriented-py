@@ -12,7 +12,7 @@ print(data) # Whole fle becomes a string
 a.close()
 
 # readline(): Reading line by line
-b = open('reading_methods.txt', 'r')
+b = open('reading_methods.txt', 'r')    
 line1 = b.readline() # By default reads first line
 print(line1)
 line2 = b.readline() # Reads line 2

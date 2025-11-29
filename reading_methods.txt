@@ -1,2 +1,0 @@
-INFO:root:Start of program
-INFO:root:Program has been started
